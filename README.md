@@ -4,7 +4,7 @@
 #### Her bir ürün bir kategoride satılabilir.
 #### Bir Müşteri birden fazla ürün alabilir.
 #### Bir ürünü birden fazla müşteri alabilir.
-#### Stored procedure,Function,clustured index,non-clustured index,View işlemleri gerçekleştirilmiştir.
+#### Stored procedure,Function,clustured index,non-clustured index,View,Cursor,Transaction işlemleri gerçekleştirilmiştir.
 
 ## tbl_Customer
 ![tbl_Customer](https://user-images.githubusercontent.com/46399299/81576899-7cc4fb00-93b1-11ea-9c2d-54ec836dafee.PNG)
